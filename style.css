@@ -1,0 +1,29 @@
+body {
+    background-color: orange;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.box1 {
+    width: 365px;
+    height: 365px;
+    border-radius: 12px;
+    background-color: #297E40;
+}
+
+.box2 {
+    width: 365px;
+    height: 365px;
+    border-radius: 90px;
+    background-color: #8E2877;
+}
+
+.box3 {
+    width: 365px;
+    height: 365px;
+    border-radius: 20px;
+    background-color: #361BA4;
+}
